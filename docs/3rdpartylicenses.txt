@@ -275,6 +275,10 @@ MIT
 @angular/router
 MIT
 
+ngx-bootstrap/utils
+
+ngx-bootstrap/carousel
+
 @nguniversal/common
 MIT
 
