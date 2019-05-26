@@ -276,11 +276,22 @@ ngx-bootstrap/utils
 
 ngx-bootstrap/carousel
 
+ngx-bootstrap/positioning
+
+ngx-bootstrap/component-loader
+
+ngx-bootstrap/modal
+
+@angular/animations
+MIT
+
 @nguniversal/common
 MIT
 
 @ng-toolkit/universal
 MIT
+
+ngx-bootstrap/collapse
 
 @angular/core
 MIT
