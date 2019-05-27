@@ -4,7 +4,12 @@
       "id": "ninja",
       "label": "Ninja",
       "desc": "Ninja Design",
-      "cost": "15",
+      "sizes": [
+        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "10",
       "currency": "USD",
       "img": "assets/img/portfolio/ninja.png"
     },
@@ -12,6 +17,11 @@
       "id": "rose",
       "label": "Rose",
       "desc": "Rose Design",
+      "sizes": [
+        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+      ],
       "cost": "15",
       "currency": "USD",
       "img": "assets/img/portfolio/rose.png"
@@ -20,6 +30,11 @@
       "id": "dragon",
       "label": "Dragon",
       "desc": "Dragon Design",
+      "sizes": [
+        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+      ],
       "cost": "15",
       "currency": "USD",
       "img": "assets/img/portfolio/dragon.png"
@@ -28,7 +43,12 @@
       "id": "heart",
       "label": "Heart",
       "desc": "Heart Design",
-      "cost": "15",
+      "sizes": [
+        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "12",
       "currency": "USD",
       "img": "assets/img/portfolio/heart.png"
     },
@@ -36,14 +56,24 @@
       "id": "peacock",
       "label": "Peacock",
       "desc": "Peacock Design",
-      "cost": "15",
+      "sizes": [
+        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "5",
       "currency": "USD",
       "img": "assets/img/portfolio/peacock.png"
     },
     {
       "id": "elephant",
       "label": "Elephant",
-      "desc": "Elephant Design",
+      "desc": "Here is a Dad, a Mama elephant and a baby elephant with their herd.",
+      "sizes": [
+        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+      ],
       "cost": "15",
       "currency": "USD",
       "img": "assets/img/portfolio/elephant.png"
