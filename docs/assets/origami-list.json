@@ -5,9 +5,9 @@
       "label": "Ninja",
       "desc": "Ninja Design",
       "sizes": [
-        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
       "cost": "10",
       "currency": "USD",
@@ -18,9 +18,9 @@
       "label": "Rose",
       "desc": "Rose Design",
       "sizes": [
-        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
       "cost": "15",
       "currency": "USD",
@@ -31,9 +31,9 @@
       "label": "Dragon",
       "desc": "Dragon Design",
       "sizes": [
-        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
       "cost": "15",
       "currency": "USD",
@@ -44,9 +44,9 @@
       "label": "Heart",
       "desc": "Heart Design",
       "sizes": [
-        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
       "cost": "12",
       "currency": "USD",
@@ -57,9 +57,9 @@
       "label": "Peacock",
       "desc": "Peacock Design",
       "sizes": [
-        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
       "cost": "5",
       "currency": "USD",
@@ -70,9 +70,9 @@
       "label": "Elephant",
       "desc": "Here is a Dad, a Mama elephant and a baby elephant with their herd.",
       "sizes": [
-        {"size": "L", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "M", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "S", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
       "cost": "15",
       "currency": "USD",

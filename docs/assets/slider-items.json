@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "rose",
+      "label": "Rose",
+      "desc": "Family of rose - for your loved ones",
+      "img": "assets/img/portfolio/rose_transparent.png"
+    },
+    {
+      "id": "dragon",
+      "label": "Dragon",
+      "desc": "Family of dragons - Your very own pet",
+      "img": "assets/img/portfolio/dragon_transparent.png"
+    },
+    {
+      "id": "heart",
+      "label": "Heart",
+      "desc": "Your very own heart",
+      "img": "assets/img/portfolio/heart_transparent.png"
+    }
+  ]
+}
