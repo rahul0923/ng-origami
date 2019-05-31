@@ -274,8 +274,6 @@ MIT
 
 ngx-bootstrap/utils
 
-ngx-bootstrap/carousel
-
 ngx-bootstrap/positioning
 
 ngx-bootstrap/component-loader
@@ -284,6 +282,8 @@ ngx-bootstrap/modal
 
 @angular/animations
 MIT
+
+ngx-bootstrap/carousel
 
 @nguniversal/common
 MIT
