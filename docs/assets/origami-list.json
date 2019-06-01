@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "id": "ninja",
-      "label": "Ninja",
-      "desc": "Ninja Design",
+      "id": "butterfly",
+      "label": "Butterfly",
+      "desc": "Butterfly Design",
       "sizes": [
         {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
         {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
@@ -11,20 +11,20 @@
       ],
       "cost": "10",
       "currency": "USD",
-      "img": "assets/img/portfolio/ninja.png"
+      "img": "assets/img/opaque/butterfly.png"
     },
     {
-      "id": "rose",
-      "label": "Rose",
-      "desc": "Rose Design",
+      "id": "crane",
+      "label": "Crane",
+      "desc": "Crane Design",
       "sizes": [
         {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
         {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
         {"size": "Small", "dimension": {"w": "6", "h": "6"}}
       ],
-      "cost": "15",
+      "cost": "10",
       "currency": "USD",
-      "img": "assets/img/portfolio/rose.png"
+      "img": "assets/img/opaque/crane.png"
     },
     {
       "id": "dragon",
@@ -37,7 +37,33 @@
       ],
       "cost": "15",
       "currency": "USD",
-      "img": "assets/img/portfolio/dragon.png"
+      "img": "assets/img/opaque/dragon.png"
+    },
+    {
+      "id": "ninja",
+      "label": "Ninja",
+      "desc": "Ninja Design",
+      "sizes": [
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "10",
+      "currency": "USD",
+      "img": "assets/img/opaque/ninja.png"
+    },
+    {
+      "id": "lotus",
+      "label": "Lotus",
+      "desc": "Lotus Design",
+      "sizes": [
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "15",
+      "currency": "USD",
+      "img": "assets/img/opaque/lotus.png"
     },
     {
       "id": "heart",
@@ -50,7 +76,7 @@
       ],
       "cost": "12",
       "currency": "USD",
-      "img": "assets/img/portfolio/heart.png"
+      "img": "assets/img/opaque/heart.png"
     },
     {
       "id": "peacock",
@@ -63,7 +89,7 @@
       ],
       "cost": "5",
       "currency": "USD",
-      "img": "assets/img/portfolio/peacock.png"
+      "img": "assets/img/opaque/peacock.png"
     },
     {
       "id": "elephant",
@@ -76,7 +102,46 @@
       ],
       "cost": "15",
       "currency": "USD",
-      "img": "assets/img/portfolio/elephant.png"
+      "img": "assets/img/opaque/elephant.png"
+    },
+    {
+      "id": "rabbit",
+      "label": "Rabbit",
+      "desc": "Here is a Dad, a Mama rabbit and a baby rabit.",
+      "sizes": [
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "15",
+      "currency": "USD",
+      "img": "assets/img/opaque/rabbit.png"
+    },
+    {
+      "id": "owl",
+      "label": "Owl",
+      "desc": "Here is a owl family.",
+      "sizes": [
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "15",
+      "currency": "USD",
+      "img": "assets/img/opaque/owl.png"
+    },
+    {
+      "id": "swan",
+      "label": "Swan",
+      "desc": "Here is a swan family.",
+      "sizes": [
+        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
+        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
+        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+      ],
+      "cost": "15",
+      "currency": "USD",
+      "img": "assets/img/opaque/swan.png"
     }
   ]
 }
