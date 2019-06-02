@@ -271,19 +271,19 @@ MIT
 @angular/platform-browser
 MIT
 
-ngx-bootstrap/utils
-
-ngx-bootstrap/component-loader
-
 @angular/router
 MIT
 
-ngx-bootstrap/carousel
+ngx-bootstrap/utils
+
+ngx-bootstrap/component-loader
 
 ngx-bootstrap/modal
 
 @angular/animations
 MIT
+
+ngx-bootstrap/carousel
 
 @nguniversal/common
 MIT
