@@ -1,3 +1,5 @@
+ngx-bootstrap/popover
+
 rxjs
 Apache-2.0
                                Apache License
@@ -269,21 +271,19 @@ MIT
 @angular/platform-browser
 MIT
 
+ngx-bootstrap/utils
+
+ngx-bootstrap/component-loader
+
 @angular/router
 MIT
 
-ngx-bootstrap/utils
-
-ngx-bootstrap/positioning
-
-ngx-bootstrap/component-loader
+ngx-bootstrap/carousel
 
 ngx-bootstrap/modal
 
 @angular/animations
 MIT
-
-ngx-bootstrap/carousel
 
 @nguniversal/common
 MIT
@@ -292,6 +292,8 @@ MIT
 MIT
 
 ngx-bootstrap/collapse
+
+ngx-bootstrap/positioning
 
 @angular/core
 MIT

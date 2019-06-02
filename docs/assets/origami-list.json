@@ -3,143 +3,152 @@
     {
       "id": "butterfly",
       "label": "Butterfly",
-      "desc": "Butterfly Design",
+      "desc": "A set of colorful butterflies.",
+      "desc_detail": "This set of butterflies is perfect for a birthday goodie bag.",
+      "desc_piece": "One set has 5 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+         {"size": "Regular", "dimension": {"w": "5", "l": "3.5"}}
       ],
-      "cost": "10",
+      "cost": "3",
       "currency": "USD",
       "img": "assets/img/opaque/butterfly.png"
     },
     {
       "id": "crane",
       "label": "Crane",
-      "desc": "Crane Design",
+      "desc": "A set of cranes - A symbol of hope and happiness.",
+      "desc_detail": "This set consists of 2 small and 2 large cranes.",
+      "desc_piece": "One set has 4 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "6.5", "l": "7"}},
+        {"size": "Small", "dimension": {"w": "5", "l": "4.5"}}
       ],
-      "cost": "10",
+      "cost": "4",
       "currency": "USD",
       "img": "assets/img/opaque/crane.png"
     },
     {
       "id": "dragon",
       "label": "Dragon",
-      "desc": "Dragon Design",
+      "desc": "A set of roaring dragons.",
+      "desc_detail": "This set has 1 mommy and 1 baby dragon.",
+      "desc_piece": "One set has 2 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "5", "l": "7.5", "h": "3.5"}},
+        {"size": "Medium", "dimension": {"w": "4.5", "l": "6", "h": "3"}}
       ],
-      "cost": "15",
+      "cost": "6",
       "currency": "USD",
       "img": "assets/img/opaque/dragon.png"
     },
     {
       "id": "ninja",
       "label": "Ninja",
-      "desc": "Ninja Design",
+      "desc": "Your special Ninja Star.",
+      "desc_piece": "One set has 4 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Small", "dimension": {"w": "2.25", "l": "2.25"}}
       ],
-      "cost": "10",
+      "cost": "2",
       "currency": "USD",
       "img": "assets/img/opaque/ninja.png"
     },
     {
       "id": "lotus",
       "label": "Lotus",
-      "desc": "Lotus Design",
+      "desc": "A set of beautifully bloomming lotuses.",
+      "desc_detail": "This set has 1 big, 1 medium 1 small lotus.",
+      "desc_piece": "One set has 3 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "2.5", "l": "2.5", "h": "1"}},
+        {"size": "Medium", "dimension": {"w": "2.5", "l": "2.5", "h": "1"}},
+        {"size": "Small", "dimension": {"w": "1.5", "l": "1.5", "h": "0.5"}}
       ],
-      "cost": "15",
+      "cost": "5.50",
       "currency": "USD",
       "img": "assets/img/opaque/lotus.png"
     },
     {
       "id": "heart",
       "label": "Heart",
-      "desc": "Heart Design",
+      "desc": "A set of hearts for your loved ones.",
+      "desc_detail": "There is even a pocket at the back of the heart.",
+      "desc_piece": "One set has 2 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Small", "dimension": {"w": "3", "l": "2.5"}}
       ],
-      "cost": "12",
+      "cost": "1",
       "currency": "USD",
       "img": "assets/img/opaque/heart.png"
     },
     {
       "id": "peacock",
       "label": "Peacock",
-      "desc": "Peacock Design",
+      "desc": "A family of dancing peacocks.",
+      "desc_detail": " Here is a mommy, one baby peacock.",
+      "desc_piece": "A set consists of 2 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "3.75", "h": "3"}},
+        {"size": "Small", "dimension": {"w": "3", "h": "2.5"}}
       ],
-      "cost": "5",
+      "cost": "3.50",
       "currency": "USD",
       "img": "assets/img/opaque/peacock.png"
     },
     {
       "id": "elephant",
       "label": "Elephant",
-      "desc": "Here is a Dad, a Mama elephant and a baby elephant with their herd.",
+      "desc": "A loyal family of elephants.",
+      "desc_detail": " A set has a Dad, a Mama elephant and a baby elephant.",
+      "desc_piece": "A set consists of 3 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "4.5", "h": "2.5"}},
+        {"size": "Medium", "dimension": {"w": "3.5", "h": "2"}},
+        {"size": "Small", "dimension": {"w": "3", "h": "1.5"}}
       ],
-      "cost": "15",
+      "cost": "11",
       "currency": "USD",
       "img": "assets/img/opaque/elephant.png"
     },
     {
       "id": "rabbit",
       "label": "Rabbit",
-      "desc": "Here is a Dad, a Mama rabbit and a baby rabit.",
+      "desc": "Family of rabbits - Your very special pet.",
+      "desc_detail": " Here is a Dad, a Mama rabbit and 2 baby rabbits.",
+      "desc_piece": "One set has 4 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "3", "h": "4"}},
+        {"size": "Small", "dimension": {"w": "2.5", "h": "3"}}
       ],
-      "cost": "15",
+      "cost": "10",
       "currency": "USD",
       "img": "assets/img/opaque/rabbit.png"
     },
     {
       "id": "owl",
       "label": "Owl",
-      "desc": "Here is a owl family.",
+      "desc": "A family of Majestic owls.",
+      "desc_detail": "A set consists of a daddy owl and a baby owl.",
+      "desc_piece": "One set has 2 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "6", "h": "5"}},
+        {"size": "Small", "dimension": {"w": "4.5", "h": "3.5"}}
       ],
-      "cost": "15",
+      "cost": "3.50",
       "currency": "USD",
       "img": "assets/img/opaque/owl.png"
     },
     {
       "id": "swan",
       "label": "Swan",
-      "desc": "Here is a swan family.",
+      "desc": "A set of elegant swans.",
+      "desc_detail": "A set consists of a mommy swan and a baby swan. Made with colorful patterned and chiyogami paper.",
+      "desc_piece": "One set has 2 pieces.",
       "sizes": [
-        {"size": "Large", "dimension": {"w": "2.5", "h": "9.5"}},
-        {"size": "Medium", "dimension": {"w": "7.75", "h": "7.75"}},
-        {"size": "Small", "dimension": {"w": "6", "h": "6"}}
+        {"size": "Large", "dimension": {"w": "6", "h": "4.2"}},
+        {"size": "Small", "dimension": {"w": "4.5", "h": "2.5"}}
       ],
-      "cost": "15",
+      "cost": "2.50",
       "currency": "USD",
       "img": "assets/img/opaque/swan.png"
     }

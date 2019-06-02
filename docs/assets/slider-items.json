@@ -1,69 +1,69 @@
 {
   "data": [
     {
-      "id": "rose",
-      "label": "Rose",
-      "desc": "Family of rose - for your loved ones",
+      "id": "butterfly",
+      "label": "Butterfly",
+      "desc": "Beautiful butterflies",
       "img": "assets/img/transparent/butterfly.png"
     },
     {
       "id": "rabbit",
       "label": "Rabbit",
-      "desc": "Family of rabits - Your very own pet",
+      "desc": "Family of rabbits - Your very special pet",
       "img": "assets/img/transparent/rabbit.png"
     },
     {
       "id": "ninja",
       "label": "Ninja",
-      "desc": "Your very own Ninja",
+      "desc": "Your very own Ninja Star",
       "img": "assets/img/transparent/ninja.png"
     },
     {
       "id": "heart",
       "label": "Heart",
-      "desc": "Your very own heart",
+      "desc": "A heart for your loved one",
       "img": "assets/img/transparent/heart.png"
     },
     {
       "id": "elephant",
       "label": "Elephant",
-      "desc": "Your very own family of elephants",
+      "desc": "A loyal family of elephants",
       "img": "assets/img/transparent/elephant.png"
     },
     {
       "id": "peacock",
       "label": "Peacock",
-      "desc": "Your very own family of peacocks",
+      "desc": "A family of dancing peacocks",
       "img": "assets/img/transparent/peacock.png"
     },
     {
       "id": "swan",
       "label": "Swan",
-      "desc": "Your very own family of swans",
+      "desc": "A set of elegant swans",
       "img": "assets/img/transparent/swan.png"
     },
     {
       "id": "crane",
       "label": "Crane",
-      "desc": "Your very own family of cranes",
+      "desc": "Cranes - a symbol of hope and happiness",
       "img": "assets/img/transparent/crane.png"
     },
     {
       "id": "lotus",
       "label": "Lotus",
-      "desc": "Your very own lotus",
+      "desc": "Blooming bunch of lotuses",
       "img": "assets/img/transparent/lotus.png"
     },
     {
       "id": "owl",
       "label": "Owl",
-      "desc": "Your very own family of owls",
+      "desc": "Majestic owls",
       "img": "assets/img/transparent/owl.png"
     },
     {
       "id": "dragon",
       "label": "Dragon",
-      "desc": "Family of dragons",
+      "desc": "Roaring family of dragons",
       "img": "assets/img/transparent/dragon.png"
     }
   ]
