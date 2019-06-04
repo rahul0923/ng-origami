@@ -5,11 +5,11 @@
       "label": "Butterfly",
       "desc": "A set of colorful butterflies.",
       "desc_detail": "This set of butterflies is perfect for a birthday goodie bag.",
-      "desc_piece": "One set has 5 pieces.",
+      "desc_piece": "One set has 4 pieces.",
       "sizes": [
          {"size": "Regular", "dimension": {"w": "5", "l": "3.5"}}
       ],
-      "cost": "3",
+      "cost": "2",
       "currency": "USD",
       "img": "assets/img/opaque/butterfly.png"
     },
@@ -57,7 +57,7 @@
       "id": "lotus",
       "label": "Lotus",
       "desc": "A set of beautifully bloomming lotuses.",
-      "desc_detail": "This set has 1 big, 1 medium 1 small lotus.",
+      "desc_detail": "This set has 1 big, 1 medium and 1 small lotus.",
       "desc_piece": "One set has 3 pieces.",
       "sizes": [
         {"size": "Large", "dimension": {"w": "2.5", "l": "2.5", "h": "1"}},
