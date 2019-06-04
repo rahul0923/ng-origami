@@ -7,12 +7,6 @@
       "img": "assets/img/transparent/butterfly.png"
     },
     {
-      "id": "rabbit",
-      "label": "Rabbit",
-      "desc": "Family of rabbits - Your very special pet",
-      "img": "assets/img/transparent/rabbit.png"
-    },
-    {
       "id": "ninja",
       "label": "Ninja",
       "desc": "Your very own Ninja Star",
@@ -23,12 +17,6 @@
       "label": "Heart",
       "desc": "A heart for your loved one",
       "img": "assets/img/transparent/heart.png"
-    },
-    {
-      "id": "elephant",
-      "label": "Elephant",
-      "desc": "A loyal family of elephants",
-      "img": "assets/img/transparent/elephant.png"
     },
     {
       "id": "peacock",
