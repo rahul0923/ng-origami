@@ -13,12 +13,6 @@
       "img": "assets/img/transparent/ninja.png"
     },
     {
-      "id": "heart",
-      "label": "Heart",
-      "desc": "A heart for your loved one",
-      "img": "assets/img/transparent/heart.png"
-    },
-    {
       "id": "peacock",
       "label": "Peacock",
       "desc": "A family of dancing peacocks",
@@ -29,18 +23,6 @@
       "label": "Swan",
       "desc": "A set of elegant swans",
       "img": "assets/img/transparent/swan.png"
-    },
-    {
-      "id": "crane",
-      "label": "Crane",
-      "desc": "Cranes - a symbol of hope and happiness",
-      "img": "assets/img/transparent/crane.png"
-    },
-    {
-      "id": "lotus",
-      "label": "Lotus",
-      "desc": "Blooming bunch of lotuses",
-      "img": "assets/img/transparent/lotus.png"
     },
     {
       "id": "owl",
